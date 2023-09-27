@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MPhil Thesis: Planetary Nebulae in the Galactic bulge"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Access through The HKU HKU Scholars Hub at: https://hub.hku.hk/handle/10722/324444
+Or through: https://sytan177.github.io/docs/HKU_Master_Thesis___TAN__Shuyu-Final.pdf
