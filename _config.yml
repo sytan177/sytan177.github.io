@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Hi there!"
 title_separator          : "-"
 name                     : &name "Shuyu Tan"
-description              : &description "I received an M.Phil. in Physics from HKU in 2022 and a B.Sc. in Physics from Imperial in 2019. Currently, I am a Research Assitant at LSR, HKU."
+description              : &description "Hi there!"
 url                      : https://sytan177.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sytan177/sytan177.github.io"
@@ -68,7 +68,7 @@ analytics:
 author:
   name             : "Shuyu Tan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I received an M.Phil. in Physics from HKU in 2022 and a B.Sc. in Physics from Imperial in 2019. Currently, I am a Research Assitant at LSR, HKU."
   location         : "LSR, Cyberport 4, Hong Kong"
   email            : shuyut@hku.hk
 
