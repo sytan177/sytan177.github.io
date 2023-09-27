@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Shuyu Tan / Hi there."
+title                    : "Hi there!"
 title_separator          : "-"
 name                     : &name "Shuyu Tan"
-description              : &description "personal description"
+description              : &description "I received an M.Phil. in Physics from HKU in 2022 and a B.Sc. in Physics from Imperial in 2019. Currently, I am a Research Assitant at LSR, HKU."
 url                      : https://sytan177.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sytan177/sytan177.github.io"
