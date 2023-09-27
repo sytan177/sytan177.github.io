@@ -1,5 +1,5 @@
 ---
-title: "MPhil Thesis: Planetary Nebulae in the Galactic bulge"
+excerpt: "MPhil Thesis: Planetary Nebulae in the Galactic bulge"
 collection: portfolio
 ---
 
