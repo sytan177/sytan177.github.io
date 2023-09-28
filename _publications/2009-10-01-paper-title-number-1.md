@@ -5,7 +5,7 @@ date: 2022-11-30
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://doi.org/10.1093/mnras/stac3490'
 ---
-This is the first in a series of papers that present sets of different results for 136 compact, known planetary nebulae within a 10 × 10 degree region of the Galactic bulge. We use a large, previously unpublished sample of our own extensive ESO 8 m VLT deep imaging and spectroscopic data. This is combined with archival deep _HST_ imaging where available to provide a detailed morphological classification and study. The influence of angular resolution and sensitivity when assigning a morphology is discussed.
+Abstract: This is the first in a series of papers that present sets of different results for 136 compact, known planetary nebulae within a 10 × 10 degree region of the Galactic bulge. We use a large, previously unpublished sample of our own extensive ESO 8 m VLT deep imaging and spectroscopic data. This is combined with archival deep _HST_ imaging where available to provide a detailed morphological classification and study. The influence of angular resolution and sensitivity when assigning a morphology is discussed.
 <figure>
 <p float="center">
 <img src="/images/ERBIAS.png" alt="" style="margin: 0; width:40%"/><img src="/images/morpo_fraction.png" alt="" style="margin: 0; width:45%"/>
