@@ -1,4 +1,4 @@
-<img width="1081" alt="PA_binary_dist" src="https://github.com/sytan177/sytan177.github.io/assets/41151391/b011bc19-14d6-4e2a-b3bc-fd9987d44317">---
+---
 title: "2023ApJ...951L..44T"
 collection: publications
 date: 2023-07-13
