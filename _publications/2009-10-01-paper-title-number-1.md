@@ -7,7 +7,7 @@ paperurl: 'https://doi.org/10.1093/mnras/stac3490'
 ---
 This is the first in a series of papers that present sets of different results for 136 compact, known planetary nebulae within a 10 × 10 degree region of the Galactic bulge. We use a large, previously unpublished sample of our own extensive ESO 8 m VLT deep imaging and spectroscopic data. This is combined with archival deep HST imaging where available to provide a detailed morphological classification and study. The influence of angular resolution and sensitivity when assigning a morphology is discussed.
 <figure>
-<img src="/images/ERBIAS.png" alt="" style="width:45%"/><img src="/images/morpo_fraction.png" alt="" style="width:38%"/>
+<img src="/images/ERBIAS.png" alt="" style="margin: 5; width:45%"/><img src="/images/morpo_fraction.png" alt="" style="margin: 5; width:38%"/>
 <figcaption align = "center"><b>Figure - the left panel present a schematic description of PN morphology classification I made based on the crateria introduced in Parker et al. (2006) while the right panel show the fraction of PNe in difference morphologies in our sample in comparision to the HASH PNe database.</b></figcaption>
 </figure>
 
