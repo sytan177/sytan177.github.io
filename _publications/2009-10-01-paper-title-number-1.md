@@ -4,7 +4,6 @@ collection: publications
 date: 2022-11-30
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://doi.org/10.1093/mnras/stac3490'
-citation: 'Tan, Shuyu, Quentin A. Parker, Albert Zijlstra, and Andreas Ritter. "Morphologies and Central Stars of Planetary Nebulae in the Galactic bulge from VLT, HST and Pan-STARRS imaging." Monthly Notices of the Royal Astronomical Society 519, no. 1 (2023): 1049-1067.'
 ---
 This is the first in a series of papers that present sets of different results for 136 compact, known planetary nebulae within a 10 × 10 degree region of the Galactic bulge. We use a large, previously unpublished sample of our own extensive ESO 8 m VLT deep imaging and spectroscopic data. This is combined with archival deep HST imaging where available to provide a detailed morphological classification and study. The influence of angular resolution and sensitivity when assigning a morphology is discussed.
 <figure>
