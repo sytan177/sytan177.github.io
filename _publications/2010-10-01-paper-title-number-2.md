@@ -10,7 +10,7 @@ Abstract: We report observations of a remarkable major axes alignment nearly par
 <p float="center">
 <img src="/images/PA_binary_dist.png" alt="" style="margin: 0; width:33%"/><img src="/images/corner_plot.png" alt="" style="margin: 0; width:40%"/>
 </p>
-<figcaption align = "center"><b>Figure - The left panel present a schematic description of PN morphology classification I made based on the criteria introduced in Parker et al. (2006). The right panel compares the fraction of PNe in different morphologies in our sample to those in the HASH PNe database.</b></figcaption>
+<figcaption align = "center"><b>Figure - The left panel presents a visualization of the Galactic Position Angles (GPAs) of PNe using vectors. PNe with short-period binary central stars are highlighted in red, while those highly likely to possess such binary systems are indicated in blue. The right panel displays a corner plot for the mean GPA and its standard deviation for our short-period binary sample. For more detailed information, please refer to the paper.</b></figcaption>
 </figure>
 
 [Download paper here]([https://doi.org/10.1093/mnras/stac3490](https://iopscience.iop.org/article/10.3847/2041-8213/acdbcd))
