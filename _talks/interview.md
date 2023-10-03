@@ -1,7 +1,6 @@
 ---
 title: "[Invited video interview @AAS Journal Author Series](https://www.youtube.com/watch?app=desktop&v=lUuofb4P2VM)"
-collection: talks
-youtubeID: lUuofb4P2VM
+collection: presentations
 date: 2023-09-15
 ---
 
