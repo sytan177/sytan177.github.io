@@ -7,4 +7,5 @@ date: 2023-09-15
 
 Me & my MPhil supervisor Prof. Parker talking about our ApJL paper on an alignment of PNe in the Galactic bulge.
 
-[![At](/images/ytb_shot.png)](https://www.youtube.com/embed/lUuofb4P2VM)
+[<img src="/images/ytb_shot.jpg" width="600"
+/>](https://www.youtube.com/embed/lUuofb4P2VM)
