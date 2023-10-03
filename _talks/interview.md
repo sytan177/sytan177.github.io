@@ -1,6 +1,9 @@
 ---
 title: "Invited video interview @AAS Journal Author Series"
 collection: talks
+date: 2023-09-15
+venue: 'Youtube'
+paperurl: 'https://www.youtube.com/watch?app=desktop&v=lUuofb4P2VM'
 ---
 
 Me & my MPhil supervisor Prof. Parker talking about our ApJL paper on an alignment of PNe in the Galactic bulge.
