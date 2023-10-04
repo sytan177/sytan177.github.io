@@ -12,4 +12,4 @@ My research primarily focused on understanding the evolution of our own Galaxy, 
 
 During my undergraduate at Imperial, I engaged in a wide range of physics [courses](https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/physics/BSc-Physics-Final.pdf). In my research project, I studied the phase-space snail-shell structure uncovered by _Gaia_ DR2 data around the solar neighborhood (within 1 kpc), in which I re-examined whether a phase mixing event could result in the observed phase-space distributions by building a toy model in a 6-d phase space, following the method in Antoja et al. (2018). 
 
-As a way to unwind, I am a lifelong avid enthusiast of [city walking](https://sytan177.github.io/docs/citywalk.html) and Sudoku. 
+As a way to unwind, I am a lifelong avid enthusiast of [city walking](https://sytan177.github.io/docs/citywalk.html) and Sudoku (definitely not an expert). 
