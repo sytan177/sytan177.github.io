@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Shuyu Tan"
-excerpt: "About me"
+title: "About me"
+excerpt: "Shuyu Tan"
 author_profile: true
 redirect_from: 
   - /about/
