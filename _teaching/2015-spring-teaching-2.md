@@ -8,7 +8,9 @@ date: 2020-06-01
 location: "Shanghai, Chine"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I converted and edited all 24 chapters of the course notes into an electronic format using LaTeX.
 
 Galactic Dynamics
 ======
+
+
