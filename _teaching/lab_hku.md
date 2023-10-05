@@ -2,7 +2,7 @@
 title: "Lab demonstration"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/lab_hku.md
+permalink: /teaching/
 venue: "The University of Hong Kong"
 date: 2020-11-01
 location: "Hong Kong"
