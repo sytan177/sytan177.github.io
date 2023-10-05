@@ -1,7 +1,7 @@
 ---
 title: "Lab demonstration"
 collection: teaching
-type: "Undergraduate course"
+type: "PHYS2261: Introductory heat and thermodynamics and PHYS2255: Introductory electricity and magnetism"
 permalink: /teaching/
 venue: "The University of Hong Kong"
 date: 2020-11-01
