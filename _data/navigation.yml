@@ -5,6 +5,9 @@ main:
     
   - title: "MPhil Thesis"
     url: /portfolio/
+
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Outreach"
     url: /talks/
