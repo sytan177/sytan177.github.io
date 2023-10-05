@@ -4,16 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-# Lab demonstration in The University of Hong Kong, 2020 <br />
+{% include base_path %}
 
-I worked as a lab demonstrator for two core physics courses of second-year undergraduate students. The labs were scheduled once a week for a duration of 3 hours each.
-<br /> 
-Teaching Assitant <br /> 
-Graduate course, Shanghai Jiao Tong University, 2020
-
-I converted and edited all 24 chapters of the course notes into an electronic format using LaTeX.<br /> 
-
-A-level/GCSE/IB Physics Teacher <br /> 
-High school, , 2019
-
-After my undergraduate studies, I dedicated a few months to full-time teaching high school students as a tutor. During this period, I covered a wide range of subjects, including kinematics, thermodynamics, quantum mechanics, astrophysics, and more. Some of my former students are currently studying Economics in LSE and Cambridge.
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
