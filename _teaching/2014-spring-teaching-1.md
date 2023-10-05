@@ -3,12 +3,12 @@ title: "Lab demonstration"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "HKU"
+venue: "The University of Hong Kong"
 date: 2020-11-01
 location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as a lab demonstrator for two core physics courses of second-year undergraduate students. The labs were scheduled once a week for a duration of 3 hours each.
 
 PHYS2261: Introductory heat and thermodynamics
 ======
