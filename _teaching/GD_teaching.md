@@ -2,7 +2,7 @@
 title: "Teaching Assitant"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/
+permalink: /teaching/GD_teaching.md
 venue: "Shanghai Jiao Tong University"
 date: 2020-06-01
 location: "Shanghai, China"
