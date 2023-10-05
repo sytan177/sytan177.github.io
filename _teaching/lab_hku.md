@@ -1,5 +1,5 @@
 ---
-title: "Lab demonstration"
+title: "Lab Demonstration"
 collection: teaching
 venue: "The University of Hong Kong"
 date: 2020-11-01
