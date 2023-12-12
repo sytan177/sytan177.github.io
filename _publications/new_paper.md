@@ -10,11 +10,6 @@ for 124 planetary nebulae (PNe) in the Galactic bulge from deep, long-slit FORS2
 ESO Very Large telescope (VLT). Prior to this work there were only ∼240 bulge PNe with chemical abundances 
 previously determined over a ∼50 yr period and of highly variable quality. For 34 of these PNe we are presenting 
 their abundances for the first time, which adds ∼14 per cent to the available sample of bulge PNe abundances. 
-The interstellar reddening, physical conditions (electron densities, ne, temperatures, Te), and chemical 
-compositions are derived as single values for each PN but also using different line diagnostics. 
-Selected comparisons with the best literature fluxes for 75 PNe in common reveal that these significant new 
-data are robust, reliable, and internally self-consistent forming the largest independent, high-quality, and 
-well-understood derivation of PNe abundances currently available for study.
 
 [Download paper here]([https://doi.org/10.1093/mnras/stad3496](https://academic.oup.com/mnras/article/527/3/6363/7424143))
 
